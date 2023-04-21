@@ -17,3 +17,5 @@ Companies nowadays like to shorten their domains using a suffix present inside t
 
 ### Figma concept:
 ![Concept user-interface made in Figma](https://cdn.discordapp.com/attachments/811925266740936704/1099057188351262790/playname.png)
+
+ProductHunt: https://www.producthunt.com/products/playname
